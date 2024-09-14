@@ -18,30 +18,7 @@ body {
     scroll-behavior: smooth;
 
 }
-.container {
-    width: 80%;
-    margin: 0 auto;
-}
 
-/* Styles for tablets and smaller screens */
-@media (max-width: 768px) {
-    .container {
-        width: 90%;
-    }
-}
-
-/* Styles for mobile devices */
-@media (max-width: 480px) {
-    .container {
-        width: 100%;
-        padding: 10px;
-    }
-
-    /* Adjust font size for smaller screens */
-    body {
-        font-size: 14px;
-    }
-}
 h1,
 h2,
 h3,
